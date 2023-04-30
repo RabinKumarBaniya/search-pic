@@ -17,4 +17,3 @@ const searchImages = async (term) => {
 
 export default searchImages;
 
-//71
